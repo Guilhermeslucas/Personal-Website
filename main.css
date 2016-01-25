@@ -1,0 +1,35 @@
+body {
+    background-color: #333333;
+    color: #A9A9A9;
+}
+
+.header {
+    text-align: center;
+}
+
+.items {
+    text-align: center;
+}
+
+.items li {
+    display: inline;
+    font-size: 22px;
+    padding: 60px;
+    margin: 10px;
+    line-height: 50px;
+
+}
+
+.items a {
+    color: #A9A9A9;
+    text-decoration: none; 
+}
+
+
+.text {
+    text-align: left;
+    margin: auto;
+    width: 65%;
+    padding: 20px;
+    font-size: 105%;
+}
