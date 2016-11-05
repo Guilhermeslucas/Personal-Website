@@ -33,3 +33,11 @@ body {
     padding: 20px;
     font-size: 105%;
 }
+
+a:link {
+    color: blue;
+}
+
+a:visited{
+    color:blue;
+}
